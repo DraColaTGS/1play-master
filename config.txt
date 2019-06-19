@@ -1,6 +1,6 @@
 token=NTg2OTc3MjA4ODk2MzIzNjEz.XQpWMw.u1n8O4kKqDOZWXoY4vf1kx3tCoI
 owner= 439020996171923466 
-prefix= هنا البرفكس حق بوتك
+prefix= 1
 game= 1Play | Master Group
 stayinchannel=true
 songinstatus=false 
